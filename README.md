@@ -11,6 +11,10 @@ The Support group can be reached out to at [chizuru support](https://t.me/chizur
 
 News channel as at [Chizuru updates](https://t.me/chizuruupdates)
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+
+
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
