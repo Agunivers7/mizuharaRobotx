@@ -26,7 +26,6 @@ coffeehouse
 youtube-dl
 regex
 bleach
-git+https://github.com/starry69/python-markdown2.git
 wikipedia
 telethon
 spamwatch
@@ -36,7 +35,6 @@ cachetools
 youtube-dl
 instantmusic
 pytz
-git+https://github.com/intellivoid/CoffeeHouse-Python-API-Wrapper.git
 tswift
 pytube
 youtube-search-python
